@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/last%20commit-today-success" />
 <img src="https://img.shields.io/badge/php-83.4%25-0078d4" />
 <img src="https://img.shields.io/badge/languages-4-blue" />
 
