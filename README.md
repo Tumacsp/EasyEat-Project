@@ -1,14 +1,22 @@
-# EASY EAT-PROJECT
+# **EASYEAT-PROJECT**
 
-> Savor Every Moment, Effortlessly Manage Dining Experiences
+*<div align="center">Savor Every Moment, Effortlessly Manage Dining Experiences</div>*
 
-[![PHP](https://img.shields.io/badge/php-83.4%25-blueviolet.svg)](#) [![Languages](https://img.shields.io/badge/languages-4-lightgrey.svg)](#) Built with the following tools and technologies:
-
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-* ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20commit-today-success" />
+  <img src="https://img.shields.io/badge/php-83.4%25-0078d4" />
+  <img src="https://img.shields.io/badge/languages-4-blue" />
+</p>
 
 ---
+
+*<div align="center">Built with the tools and technologies:</div>*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
 ## Table of Contents
 
